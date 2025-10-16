@@ -1,0 +1,73 @@
+{
+  "role": {
+    "id": "research_fellow_in_nlp",
+    "title": "Research Fellow in NLP",
+    "department": "Academic Affairs",
+    "required_skills": [
+      "teaching",
+      "research",
+      "curriculum development"
+    ],
+    "preferred_skills": [
+      "mentorship",
+      "grant writing"
+    ],
+    "research_focus": [
+      "discipline-specific research"
+    ],
+    "teaching_requirements": [
+      "undergraduate courses"
+    ]
+  },
+  "matches": [
+    {
+      "candidate_id": "acad_affairs_dir_role",
+      "role_id": "research_fellow_in_nlp",
+      "fit_score": 0.5327,
+      "strengths": [
+        "Mentions required skill: teaching",
+        "Mentions required skill: research",
+        "Mentions required skill: curriculum development",
+        "Mentions preferred skill: mentorship",
+        "Mentions preferred skill: grant writing",
+        "Teaching alignment: undergraduate courses"
+      ],
+      "risks": [],
+      "next_steps": [
+        "Invite to interview"
+      ]
+    },
+    {
+      "candidate_id": "acad_affairs_faculty_role",
+      "role_id": "research_fellow_in_nlp",
+      "fit_score": 0.5138,
+      "strengths": [
+        "Mentions required skill: teaching",
+        "Mentions required skill: research",
+        "Mentions required skill: curriculum development",
+        "Mentions preferred skill: mentorship",
+        "Mentions preferred skill: grant writing",
+        "Teaching alignment: undergraduate courses"
+      ],
+      "risks": [],
+      "next_steps": [
+        "Invite to interview"
+      ]
+    },
+    {
+      "candidate_id": "Sara_Johnson_Research_Fellow_in_NLP",
+      "role_id": "research_fellow_in_nlp",
+      "fit_score": 0.0783,
+      "strengths": [
+        "Mentions required skill: research",
+        "Mentions required skill: curriculum development"
+      ],
+      "risks": [
+        "Missing required skill: teaching"
+      ],
+      "next_steps": [
+        "Needs follow-up"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Role: Research Fellow in NLP
+Name: Sara Johnson
+Email: sara.johnson@example.edu
+Experience: Lecturer for data science and introductory programming courses; developed new course materials.
+Research: Natural language processing, low-resource languages, and language models.
+Skills: NLP, deep learning, curriculum development, Python, R
+Publications: 12 peer-reviewed papers in NLP venues.

@@ -1,0 +1,16 @@
+id: cs_asst_prof
+title: Assistant Professor of Computer Science
+department: Computer Science
+required_skills:
+  - machine learning
+  - data structures
+  - teaching
+preferred_skills:
+  - deep learning
+  - natural language processing
+research_focus:
+  - artificial intelligence
+  - data science
+teaching_requirements:
+  - undergraduate courses
+  - curriculum development
