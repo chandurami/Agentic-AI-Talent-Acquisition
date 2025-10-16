@@ -1,6 +1,0 @@
-Name: Alice Kumar
-Email: alice.kumar@example.edu
-Experience: Teaching undergraduate and graduate courses in algorithms, databases, and introductory AI.
-Research: Machine learning, explainable AI, and database systems.
-Skills: machine learning, explainable AI, SQL, teaching, curriculum development
-Publications: 8 peer-reviewed papers in ML and database venues.

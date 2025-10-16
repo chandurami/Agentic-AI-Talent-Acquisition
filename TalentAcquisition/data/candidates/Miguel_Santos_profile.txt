@@ -1,6 +1,0 @@
-Name: Miguel Santos
-Email: miguel.santos@example.edu
-Experience: Industry experience building ML platforms; guest lecturer for data structures and software engineering.
-Research: Scalable machine learning, MLOps, and applied deep learning.
-Skills: deep learning, MLOps, Python, Kubernetes, teaching (guest lecturer)
-Publications: 6 peer-reviewed applied ML papers and several industry whitepapers.

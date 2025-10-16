@@ -1,6 +1,0 @@
-Name: Anika Sharma
-Email: anika.sharma@example.edu
-Experience: Lecturer in statistics and data science; supervised multiple undergraduate projects.
-Research: Time series forecasting, applied data science, and healthcare analytics.
-Skills: data science, time series forecasting, Python, R, teaching
-Publications: 9 peer-reviewed papers in applied data science journals.
