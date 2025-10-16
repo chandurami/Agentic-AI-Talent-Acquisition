@@ -1,0 +1,14 @@
+id: acad_affairs_dir
+title: Director of Academic Affairs
+department: Academic Affairs
+required_skills:
+  - teaching
+  - research
+  - curriculum development
+preferred_skills:
+  - mentorship
+  - grant writing
+research_focus:
+  - discipline-specific research
+teaching_requirements:
+  - undergraduate courses

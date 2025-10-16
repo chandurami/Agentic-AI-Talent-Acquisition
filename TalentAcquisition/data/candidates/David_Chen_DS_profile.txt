@@ -1,0 +1,6 @@
+Name: David Chen
+Email: david.chen@example.edu
+Experience: Postdoc researcher in data science; taught introductory Python and machine learning.
+Research: Bayesian methods, probabilistic modeling, and scalable ML systems.
+Skills: Bayesian statistics, probabilistic models, Python, teaching
+Publications: 7 peer-reviewed papers in ML and statistics venues.
